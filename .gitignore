@@ -1,0 +1,17 @@
+*/.classpath
+*/.project
+*/target/
+*/bin/
+*/logs/
+*/*.db
+*/*.log
+*/.settings/
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+.metadata/
+.recommenders/
+.idea/
+.project
+.settings/
+*.iml
